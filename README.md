@@ -1,4 +1,4 @@
-ASP2 DZ2
+ASP2 DZ3
 
 Homework project implementation of database index that is based on B tree structure, with the order of said tree given by a console input.
 
